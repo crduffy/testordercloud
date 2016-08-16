@@ -1,0 +1,14 @@
+{
+  "appname": "testordercloud",
+  "scope": "BuyerAdmin DevCenterWebHookAdmin FullAccess",
+  "clientid": "169D5D1E-0DD1-444C-9AAB-8D51981D69BB",
+  "buyerid": "atlanticbt",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
